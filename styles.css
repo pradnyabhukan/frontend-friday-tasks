@@ -4,17 +4,13 @@
 }
 .body {
     padding: 5px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
 }
 .results-summary-component {
     width: fit-content;
     background-color: white;
     border-radius: 20px;
     display: flex;
+    box-shadow: 4px 3px 3px rgb(165, 162, 162);
 }
 
 .results-summary-component__result {
